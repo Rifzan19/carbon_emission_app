@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719860842159",
+    "project_id": "lab-apps-ce1ef",
+    "storage_bucket": "lab-apps-ce1ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719860842159:android:3bdf1029f7583f9b439e5a",
+        "android_client_info": {
+          "package_name": "com.example.carbon_emission_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALV3hKDGPvFRXQ5EAiTrE4sLa2WXgdSTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
